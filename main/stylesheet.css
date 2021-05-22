@@ -1,0 +1,27 @@
+header{
+    background-color: #00adb5;
+    padding-bottom: 60px;
+}
+
+h1{
+    text-align: center;
+    top: 30px;
+    position: relative;
+}
+
+.card{
+    margin-top: 100px;
+    margin-left: 150px;
+    display:inline-flex;
+    flex-wrap: wrap;
+    background-color: #eeeeee;
+    font-size: x-large;
+    text-align: center;
+}
+
+.list-group-item{
+   
+    font-size: large;
+    background-color: #aad8d3;
+}
+
