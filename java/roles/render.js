@@ -19,6 +19,7 @@ function render(data) {
         }
       }
       return`
+  
       <div class="card" style="width: 18rem;">
   <div class="card-header">
     ${employeeName}, <br> ${role}
@@ -29,6 +30,7 @@ function render(data) {
     <li class="list-group-item">${renderRole(role)}</li>
   </ul>
 </div>
+
          `;
      };
    
